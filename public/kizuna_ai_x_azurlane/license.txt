@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kizuna Ai x Azurlane
+* source:	https://sketchfab.com/3d-models/kizuna-ai-x-azurlane-dd96ad12e3e24c1b94fde12cbb494113
+* author:	HarukaS (https://sketchfab.com/Haruka_S)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kizuna Ai x Azurlane" (https://sketchfab.com/3d-models/kizuna-ai-x-azurlane-dd96ad12e3e24c1b94fde12cbb494113) by HarukaS (https://sketchfab.com/Haruka_S) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
